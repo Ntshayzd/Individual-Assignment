@@ -1,0 +1,92 @@
+ h1
+ 	{
+ 		font-family: 'Merienda', cursive;
+ 		color: maroon;
+ 	}
+ 
+
+a:link, a:visited
+
+		{
+			background-color: midnightblue;
+			color: white;
+			text-decoration: none;
+			padding: 16px;
+			text-align: centre;
+			display: inline-block;
+			font-family: arial;
+		}
+
+
+a:hover 
+		{
+			color: red;
+			background-color: lightseagreen;
+			text-decoration: underline;
+		}
+
+a:active
+		{
+			color: green;
+			background-color: yellow;
+			text-decoration: underline;
+		}
+
+p 
+	{
+		font-family: 'Caveat Brush', cursive;
+		color:darkgreen;
+		font-size:20pt;
+		font-style: bold;
+		padding: 2pt;
+		
+	}
+
+table, tr, td, th 
+	{
+		border: 1px solid black;
+		border-collapse: collapse;
+		padding: 5px;
+		width: 50%;
+
+	}
+
+th 
+	{
+		background-color: blanchedalmond;
+		width: 5%;
+		font-family: 'Rancho', cursive;
+		font-size: 16pt;
+	}
+
+td 
+	{
+		background-color: #ffb3ba;
+		width: 30%;
+		font-family: 'Lato', sans-serif;
+		font-size:12pt;
+		text-align: left;
+		font-style: bold;
+
+	}
+
+body 
+	{
+		font-family: arial;
+		font-size: 12pt;
+	}
+
+ul {padding: 0pt;
+	text-align: center;
+	display: inline-block;
+}
+
+li {
+	padding: 3pt;
+	list-style: inside;
+	margin: 5pt;
+}
+
+
+
+
